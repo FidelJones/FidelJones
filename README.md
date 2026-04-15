@@ -31,7 +31,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f7ff,100:00ff9c&height=3"/>
 </p>
 
-🇺🇬 Ugandan Computer Scientist (Age 21)
+🇺🇬 Ugandan Computer Scientist (Age 23)
 I design, build, and ship real-world applications with clean UI, scalable backend logic, and modern architectures.
 
 🧩 TECH STACK (Neon Grid)
